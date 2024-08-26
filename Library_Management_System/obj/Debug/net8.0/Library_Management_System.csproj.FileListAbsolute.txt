@@ -1,0 +1,15 @@
+A:\C-Sharp_Projects\Library_Management_System\bin\Debug\net8.0\Library_Management_System.exe
+A:\C-Sharp_Projects\Library_Management_System\bin\Debug\net8.0\Library_Management_System.deps.json
+A:\C-Sharp_Projects\Library_Management_System\bin\Debug\net8.0\Library_Management_System.runtimeconfig.json
+A:\C-Sharp_Projects\Library_Management_System\bin\Debug\net8.0\Library_Management_System.dll
+A:\C-Sharp_Projects\Library_Management_System\bin\Debug\net8.0\Library_Management_System.pdb
+A:\C-Sharp_Projects\Library_Management_System\obj\Debug\net8.0\Library_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+A:\C-Sharp_Projects\Library_Management_System\obj\Debug\net8.0\Library_Management_System.AssemblyInfoInputs.cache
+A:\C-Sharp_Projects\Library_Management_System\obj\Debug\net8.0\Library_Management_System.AssemblyInfo.cs
+A:\C-Sharp_Projects\Library_Management_System\obj\Debug\net8.0\Library_Management_System.csproj.CoreCompileInputs.cache
+A:\C-Sharp_Projects\Library_Management_System\obj\Debug\net8.0\Library_Management_System.sourcelink.json
+A:\C-Sharp_Projects\Library_Management_System\obj\Debug\net8.0\Library_Management_System.dll
+A:\C-Sharp_Projects\Library_Management_System\obj\Debug\net8.0\refint\Library_Management_System.dll
+A:\C-Sharp_Projects\Library_Management_System\obj\Debug\net8.0\Library_Management_System.pdb
+A:\C-Sharp_Projects\Library_Management_System\obj\Debug\net8.0\Library_Management_System.genruntimeconfig.cache
+A:\C-Sharp_Projects\Library_Management_System\obj\Debug\net8.0\ref\Library_Management_System.dll
