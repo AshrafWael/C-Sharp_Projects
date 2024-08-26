@@ -30,7 +30,7 @@ namespace Library_Management_System
                         {
                             case 'A':
                                 {
-                                    Console.WriteLine("Enter Book Details");
+                                    Console.WriteLine("Enter Book Details To Add");
                                     Console.WriteLine("Enter Book Name");
                                     string BookName = Console.ReadLine();
                                     Console.WriteLine("Enter BookAuthor");
@@ -44,17 +44,40 @@ namespace Library_Management_System
                                         Author = BookAuthor,
                                         PublicationDate = publishDate
                                     };
-                                    library.AddBooks(book1);
+                                    //add book to library from libririan (separation of ) 
+                                    l1.AddBooks(book1,library);
                                 }
                                 break;
                             case 'R':
-                                { }
+                                {
+                                    Console.WriteLine("Enter Book Details To Remove");
+                                    Console.WriteLine("Enter Book Name");
+                                    string BookName = Console.ReadLine();
+                                    Console.WriteLine("Enter BookAuthor");
+                                    string BookAuthor = Console.ReadLine();
+                                    Console.WriteLine("Enter Book publication Date");
+                                    DateTime publishDate = Convert.ToDateTime(Console.ReadLine());
+                                    // Books books = new Books(BookName, BookAuthor, publishDate);
+                                    Books book1 = new Books()
+                                    {
+                                        Title = BookName,
+                                        Author = BookAuthor,
+                                        PublicationDate = publishDate
+                                    };
+                                    //add book to library from libririan (separation of ) 
+                                    l1.RemoveBooks(book1, library);
+
+                                }
                                 break;
                             case 'D':
-                                { }
+                                {
+                                    l1.DisplayBooks(library);
+                                }
                                 break;
                             default:
-                                { }
+                                {
+                                    Console.WriteLine("please enter A or R or D");
+                                }
                                 break;
                         }
 

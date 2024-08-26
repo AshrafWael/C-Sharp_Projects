@@ -15,13 +15,14 @@ namespace Library_Management_System
             Name = name;
         }
 
-        public void AddBooks(Books newBook)
+        public void AddBooks(Books newBook, Library library)
         {
+            library.AddBooks(newBook);
 
         }
-        public void RemoveBooks(Books RemovedBook)
+        public void RemoveBooks(Books RemovedBook, Library library)
         {
-
+            library.RemoveBooks(RemovedBook);
         }
 
     }

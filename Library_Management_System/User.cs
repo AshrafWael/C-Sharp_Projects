@@ -10,9 +10,9 @@ namespace Library_Management_System
     {
 
         public  string Name { get; set; }
-        public void DisplayBooks(Books[] listOfBooks)
+        public void DisplayBooks(Library library)
         {
-
+            library.DisplayBooks();
         }
 
     }
