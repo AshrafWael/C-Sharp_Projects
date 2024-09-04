@@ -8,10 +8,14 @@ namespace Library_Management_System
 {
     internal class LibraryUser :User
     {
-        LibraryCard card {  get; set; }
-        public void borrowBook(Books BorroweBook)
+        public LibraryUser(string name)
         {
-
+            Name = name;
+        }
+        LibraryCard card {  get; set; }
+        public void borrowBook(Books BorroweBook ,Library library)
+        {
+            library.borrowBook(BorroweBook);
         }
     }
 }

@@ -11,7 +11,7 @@ namespace Library_Management_System
 
         public string Title { get; set; }
        public string Author { get; set; }
-       public DateTime PublicationDate { get; set; }
+       public int PublicationDate { get; set; }
        /* 
          public Books(string title, string author, DateTime publicationdate) 
         {

@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace Library_Management_System
 {
-    internal class LibraryCard
-    {
-
+    internal class LibraryCard    {
         int CardNumber { get; set; }
     }
 }

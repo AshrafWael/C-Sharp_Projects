@@ -43,6 +43,21 @@ namespace Library_Management_System
             }
 
         }
+
+        public void borrowBook(Books BorroweBook)
+        {
+            if (currrentBorrowedBookCount < BorrowedBooks.Length)
+            {
+                BorrowedBooks[currrentBorrowedBookCount] = BorroweBook;
+                currrentBookCount++;
+                Console.WriteLine("Book Borrowed Sucsesfuly");
+            }
+            else
+            {
+                Console.WriteLine("Sorry can not Borrow you");
+            }
+
+        }
         public void DisplayBooks()
         {
             foreach (var item in Book)
