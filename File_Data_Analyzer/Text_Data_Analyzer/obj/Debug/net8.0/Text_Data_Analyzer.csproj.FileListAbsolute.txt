@@ -1,0 +1,15 @@
+A:\C-Sharp_Projects\Text_Data_Analyzer\Text_Data_Analyzer\bin\Debug\net8.0\Text_Data_Analyzer.exe
+A:\C-Sharp_Projects\Text_Data_Analyzer\Text_Data_Analyzer\bin\Debug\net8.0\Text_Data_Analyzer.deps.json
+A:\C-Sharp_Projects\Text_Data_Analyzer\Text_Data_Analyzer\bin\Debug\net8.0\Text_Data_Analyzer.runtimeconfig.json
+A:\C-Sharp_Projects\Text_Data_Analyzer\Text_Data_Analyzer\bin\Debug\net8.0\Text_Data_Analyzer.dll
+A:\C-Sharp_Projects\Text_Data_Analyzer\Text_Data_Analyzer\bin\Debug\net8.0\Text_Data_Analyzer.pdb
+A:\C-Sharp_Projects\Text_Data_Analyzer\Text_Data_Analyzer\obj\Debug\net8.0\Text_Data_Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+A:\C-Sharp_Projects\Text_Data_Analyzer\Text_Data_Analyzer\obj\Debug\net8.0\Text_Data_Analyzer.AssemblyInfoInputs.cache
+A:\C-Sharp_Projects\Text_Data_Analyzer\Text_Data_Analyzer\obj\Debug\net8.0\Text_Data_Analyzer.AssemblyInfo.cs
+A:\C-Sharp_Projects\Text_Data_Analyzer\Text_Data_Analyzer\obj\Debug\net8.0\Text_Data_Analyzer.csproj.CoreCompileInputs.cache
+A:\C-Sharp_Projects\Text_Data_Analyzer\Text_Data_Analyzer\obj\Debug\net8.0\Text_Data_Analyzer.sourcelink.json
+A:\C-Sharp_Projects\Text_Data_Analyzer\Text_Data_Analyzer\obj\Debug\net8.0\Text_Data_Analyzer.dll
+A:\C-Sharp_Projects\Text_Data_Analyzer\Text_Data_Analyzer\obj\Debug\net8.0\refint\Text_Data_Analyzer.dll
+A:\C-Sharp_Projects\Text_Data_Analyzer\Text_Data_Analyzer\obj\Debug\net8.0\Text_Data_Analyzer.pdb
+A:\C-Sharp_Projects\Text_Data_Analyzer\Text_Data_Analyzer\obj\Debug\net8.0\Text_Data_Analyzer.genruntimeconfig.cache
+A:\C-Sharp_Projects\Text_Data_Analyzer\Text_Data_Analyzer\obj\Debug\net8.0\ref\Text_Data_Analyzer.dll

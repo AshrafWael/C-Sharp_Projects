@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\C-Sharp_Projects\\Text_Data_Analyzer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF601FA2-5F85-4AF1-8981-2B29AACD2213}|Text_Data_Analyzer\\Text_Data_Analyzer.csproj|a:\\c-sharp_projects\\text_data_analyzer\\text_data_analyzer\\fileinfoextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF601FA2-5F85-4AF1-8981-2B29AACD2213}|Text_Data_Analyzer\\Text_Data_Analyzer.csproj|solutionrelative:text_data_analyzer\\fileinfoextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF601FA2-5F85-4AF1-8981-2B29AACD2213}|Text_Data_Analyzer\\Text_Data_Analyzer.csproj|a:\\c-sharp_projects\\text_data_analyzer\\text_data_analyzer\\fileanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF601FA2-5F85-4AF1-8981-2B29AACD2213}|Text_Data_Analyzer\\Text_Data_Analyzer.csproj|solutionrelative:text_data_analyzer\\fileanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF601FA2-5F85-4AF1-8981-2B29AACD2213}|Text_Data_Analyzer\\Text_Data_Analyzer.csproj|a:\\c-sharp_projects\\text_data_analyzer\\text_data_analyzer\\analysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF601FA2-5F85-4AF1-8981-2B29AACD2213}|Text_Data_Analyzer\\Text_Data_Analyzer.csproj|solutionrelative:text_data_analyzer\\analysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF601FA2-5F85-4AF1-8981-2B29AACD2213}|Text_Data_Analyzer\\Text_Data_Analyzer.csproj|a:\\c-sharp_projects\\text_data_analyzer\\text_data_analyzer\\ifileanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF601FA2-5F85-4AF1-8981-2B29AACD2213}|Text_Data_Analyzer\\Text_Data_Analyzer.csproj|solutionrelative:text_data_analyzer\\ifileanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF601FA2-5F85-4AF1-8981-2B29AACD2213}|Text_Data_Analyzer\\Text_Data_Analyzer.csproj|a:\\c-sharp_projects\\text_data_analyzer\\text_data_analyzer\\textfileanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF601FA2-5F85-4AF1-8981-2B29AACD2213}|Text_Data_Analyzer\\Text_Data_Analyzer.csproj|solutionrelative:text_data_analyzer\\textfileanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF601FA2-5F85-4AF1-8981-2B29AACD2213}|Text_Data_Analyzer\\Text_Data_Analyzer.csproj|a:\\c-sharp_projects\\text_data_analyzer\\text_data_analyzer\\csvfileanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF601FA2-5F85-4AF1-8981-2B29AACD2213}|Text_Data_Analyzer\\Text_Data_Analyzer.csproj|solutionrelative:text_data_analyzer\\csvfileanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF601FA2-5F85-4AF1-8981-2B29AACD2213}|Text_Data_Analyzer\\Text_Data_Analyzer.csproj|a:\\c-sharp_projects\\text_data_analyzer\\text_data_analyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF601FA2-5F85-4AF1-8981-2B29AACD2213}|Text_Data_Analyzer\\Text_Data_Analyzer.csproj|solutionrelative:text_data_analyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileInfoExtensions.cs",
+              "DocumentMoniker": "A:\\C-Sharp_Projects\\Text_Data_Analyzer\\Text_Data_Analyzer\\FileInfoExtensions.cs",
+              "RelativeDocumentMoniker": "Text_Data_Analyzer\\FileInfoExtensions.cs",
+              "ToolTip": "A:\\C-Sharp_Projects\\Text_Data_Analyzer\\Text_Data_Analyzer\\FileInfoExtensions.cs",
+              "RelativeToolTip": "Text_Data_Analyzer\\FileInfoExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T21:13:05.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileAnalyzer.cs",
+              "DocumentMoniker": "A:\\C-Sharp_Projects\\Text_Data_Analyzer\\Text_Data_Analyzer\\FileAnalyzer.cs",
+              "RelativeDocumentMoniker": "Text_Data_Analyzer\\FileAnalyzer.cs",
+              "ToolTip": "A:\\C-Sharp_Projects\\Text_Data_Analyzer\\Text_Data_Analyzer\\FileAnalyzer.cs",
+              "RelativeToolTip": "Text_Data_Analyzer\\FileAnalyzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:57:45.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnalysisResult.cs",
+              "DocumentMoniker": "A:\\C-Sharp_Projects\\Text_Data_Analyzer\\Text_Data_Analyzer\\AnalysisResult.cs",
+              "RelativeDocumentMoniker": "Text_Data_Analyzer\\AnalysisResult.cs",
+              "ToolTip": "A:\\C-Sharp_Projects\\Text_Data_Analyzer\\Text_Data_Analyzer\\AnalysisResult.cs",
+              "RelativeToolTip": "Text_Data_Analyzer\\AnalysisResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:49:37.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFileAnalysis.cs",
+              "DocumentMoniker": "A:\\C-Sharp_Projects\\Text_Data_Analyzer\\Text_Data_Analyzer\\IFileAnalysis.cs",
+              "RelativeDocumentMoniker": "Text_Data_Analyzer\\IFileAnalysis.cs",
+              "ToolTip": "A:\\C-Sharp_Projects\\Text_Data_Analyzer\\Text_Data_Analyzer\\IFileAnalysis.cs",
+              "RelativeToolTip": "Text_Data_Analyzer\\IFileAnalysis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:54:12.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TextFileAnalyzer.cs",
+              "DocumentMoniker": "A:\\C-Sharp_Projects\\Text_Data_Analyzer\\Text_Data_Analyzer\\TextFileAnalyzer.cs",
+              "RelativeDocumentMoniker": "Text_Data_Analyzer\\TextFileAnalyzer.cs",
+              "ToolTip": "A:\\C-Sharp_Projects\\Text_Data_Analyzer\\Text_Data_Analyzer\\TextFileAnalyzer.cs",
+              "RelativeToolTip": "Text_Data_Analyzer\\TextFileAnalyzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:52:09.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CsvFileAnalyzer.cs",
+              "DocumentMoniker": "A:\\C-Sharp_Projects\\Text_Data_Analyzer\\Text_Data_Analyzer\\CsvFileAnalyzer.cs",
+              "RelativeDocumentMoniker": "Text_Data_Analyzer\\CsvFileAnalyzer.cs",
+              "ToolTip": "A:\\C-Sharp_Projects\\Text_Data_Analyzer\\Text_Data_Analyzer\\CsvFileAnalyzer.cs",
+              "RelativeToolTip": "Text_Data_Analyzer\\CsvFileAnalyzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:51:51.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\C-Sharp_Projects\\Text_Data_Analyzer\\Text_Data_Analyzer\\Program.cs",
+              "RelativeDocumentMoniker": "Text_Data_Analyzer\\Program.cs",
+              "ToolTip": "A:\\C-Sharp_Projects\\Text_Data_Analyzer\\Text_Data_Analyzer\\Program.cs",
+              "RelativeToolTip": "Text_Data_Analyzer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:47:33.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
