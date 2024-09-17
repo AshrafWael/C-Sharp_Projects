@@ -1,0 +1,15 @@
+A:\C-Sharp_Projects\Maze_Game\bin\Debug\net8.0\Maze_Game.exe
+A:\C-Sharp_Projects\Maze_Game\bin\Debug\net8.0\Maze_Game.deps.json
+A:\C-Sharp_Projects\Maze_Game\bin\Debug\net8.0\Maze_Game.runtimeconfig.json
+A:\C-Sharp_Projects\Maze_Game\bin\Debug\net8.0\Maze_Game.dll
+A:\C-Sharp_Projects\Maze_Game\bin\Debug\net8.0\Maze_Game.pdb
+A:\C-Sharp_Projects\Maze_Game\obj\Debug\net8.0\Maze_Game.GeneratedMSBuildEditorConfig.editorconfig
+A:\C-Sharp_Projects\Maze_Game\obj\Debug\net8.0\Maze_Game.AssemblyInfoInputs.cache
+A:\C-Sharp_Projects\Maze_Game\obj\Debug\net8.0\Maze_Game.AssemblyInfo.cs
+A:\C-Sharp_Projects\Maze_Game\obj\Debug\net8.0\Maze_Game.csproj.CoreCompileInputs.cache
+A:\C-Sharp_Projects\Maze_Game\obj\Debug\net8.0\Maze_Game.sourcelink.json
+A:\C-Sharp_Projects\Maze_Game\obj\Debug\net8.0\Maze_Game.dll
+A:\C-Sharp_Projects\Maze_Game\obj\Debug\net8.0\refint\Maze_Game.dll
+A:\C-Sharp_Projects\Maze_Game\obj\Debug\net8.0\Maze_Game.pdb
+A:\C-Sharp_Projects\Maze_Game\obj\Debug\net8.0\Maze_Game.genruntimeconfig.cache
+A:\C-Sharp_Projects\Maze_Game\obj\Debug\net8.0\ref\Maze_Game.dll
